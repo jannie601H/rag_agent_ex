@@ -4,6 +4,8 @@ version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
     "chromadb>=1.5.9",
+    "common>=0.1.2",
+    "common-utils>=2.0.1.dev1",
     "docling-core[chunking-openai]>=2.99.0",
     "docling[onnxruntime]>=2.133.0",
     "faiss-gpu>=1.15.1",
